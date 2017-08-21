@@ -2,6 +2,9 @@ package com.eljholiveira.builtitbiggerudacity;
 
 import android.test.AndroidTestCase;
 
+import com.eljholiveira.builtitbiggerudacity.tasks.JokesAsyncTask;
+import com.eljholiveira.builtitbiggerudacity.tasks.model.JokeResponse;
+
 import java.util.concurrent.ExecutionException;
 
 /**
